@@ -1,0 +1,9 @@
+{
+    "model_name": "deepseek-chat",
+    "temperature": 0.7,
+    "is_active": true,
+    "tools": [
+        "web_search",
+        "calculator"
+    ]
+}
